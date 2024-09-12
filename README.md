@@ -1,2 +1,2 @@
 # html-portfolio
-Portfolio Project from Web development bootcamp
+Movie ranking Project from Web development bootcamp
